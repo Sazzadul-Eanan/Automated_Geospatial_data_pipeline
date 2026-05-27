@@ -1,0 +1,2 @@
+# Automated_Geospatial_data_pipeline
+A_batch_tool_for_harmonizing_raster_resolution_and_extent_for_ML_models
